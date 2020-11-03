@@ -1,0 +1,16 @@
+
+  nombre:Melisa Paola Manti.Documento:22551236,Valor:91.375,pagina:0hora:	14:17:32	
+  nombre:Diana Lorena Cavie.Documento:1019104315,Valor:75.960,pagina:0hora:	14:22:02	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	11:24:47	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	11:30:45	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	11:50:16	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	13:26:48	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	14:07:25	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	15:12:45	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	15:22:15	
+  nombre:Santiago Ortiz Car.Documento:1017173925,Valor:73.715,pagina:0hora:	15:35:17	
+  nombre:Diana Mar? R uiz U.Documento:43578594,Valor:50.334,pagina:0hora:	15:40:32	
+  nombre:Sandra Carolina AI.Documento:52424710,Valor:89.900,pagina:1hora:	15:44:30	
+  nombre:Tatiana Duque Leni.Documento:1121826907,Valor:50.940,pagina:1hora:	15:46:41	
+  nombre:Manuela J aramillo.Documento:1094927257,Valor:108.971,pagina:1hora:	15:48:55	
+  nombre:Silvia Baquero Cas.Documento:35500873,Valor:131.800,pagina:2hora:	15:52:50	

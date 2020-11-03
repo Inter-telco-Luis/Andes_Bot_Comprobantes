@@ -1,0 +1,14 @@
+
+  nombre:Carmenza Londo?o Z.Documento:32441478,Valor:79.800,pagina:0hora:	14:24:58	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	08:26:01	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	10:03:26	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	10:54:16	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	13:58:09	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	14:29:36	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	14:34:23	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:referenciahora:	14:36:44	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	14:40:11	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	14:47:21	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:referenciahora:	14:48:47	
+  nombre:Santiago Ortiz Car.Documento:,Valor:73.715,pagina:0hora:	14:50:20	
+  nombre:Carolina Alexandra.Documento:1019097400,Valor:343.3,pagina:0hora:	15:38:21	

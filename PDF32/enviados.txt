@@ -1,0 +1,92 @@
+		
+  nombre:Paola Gallo Stiern.Documento:39785180,Valor:109.900,pagina:1hora:	13:51:52	
+  nombre:J uliana Stella Oli.Documento:40036721,Valor:164.950,pagina:1hora:	13:55:35	
+  nombre:Maria Elizabeth Ro.Documento:1123997627,Valor:90.990,pagina:2hora:	14:31:47	
+  nombre:Mar? ael Charry.Documento:21334592,Valor:109.950,pagina:2hora:	14:46:37	
+  nombre:Claudia Patricia P.Documento:39673645,Valor:79.950,pagina:2hora:	14:50:33	
+  nombre:Paula Katherinn Es.Documento:1020815522,Valor:55.960,pagina:3hora:	15:02:25	
+  nombre:Sergio Iv?r Ureche.Documento:1067808487,Valor:53.964,pagina:3hora:	15:06:20	
+  nombre:Andrea Jaimes00000.Documento:1098647567,Valor:49.900,pagina:3hora:     15:09:30
+  nombre:Nathalia Mar?a Car.Documento:43744921,Valor:59.960,pagina:4hora:	15:31:48	
+  nombre:David Mart?nez Hoy.Documento:1128418651,Valor:125.405,pagina:4hora:	15:36:47	
+  nombre:Antonia Consuelo G.Documento:41652047,Valor:58.455,pagina:4hora:	15:40:10
+  nombre:Vanessa Luna Afric.Documento:37752598,Valor:99.450,pagina:5hora:	15:51:50	
+  nombre:Martha Isabel Silv.Documento:51875171,Valor:119.340,pagina:5hora:	15:55:26	
+  nombre:Adriana Blanco Car.Documento:1130667366,Valor:84.365,pagina:50hora:	15:59:03	
+  nombre:Marcela Maria C?rd.Documento:1026132335,Valor:59.900,pagina:6hora:	16:02:41	
+  nombre:Elizabeth del Carm.Documento:45552391,Valor:29.900,pagina:6hora:	16:06:21	
+  nombre:laura carrero siab.Documento:1032493175,Valor:142.385,pagina:7hora:	16:09:59	
+  nombre:Angela Milena Oval.Documento:1090420045,Valor:127.910,pagina:7hora:	16:13:37	
+  nombre:Laura Salazar Ram?.Documento:1037657856,Valor:51.960,pagina:7hora:	16:17:14	
+  nombre:Paula Andrea Fern?.Documento:42123220,Valor:95.940,pagina:8hora:	16:22:48	
+  nombre:Mar?a del Rosario.Documento:39777515,Valor:119.340,pagina:8hora:	16:26:26	
+  nombre:Libia Yanida Bohor.Documento:24120234,Valor:163.880,pagina:8hora:	16:30:05	
+  nombre:Martha J Guti?rre.Documento:35408044,Valor:118.728,pagina:9hora:	16:33:45	
+  nombre:Lina Maryuri Delga.Documento:1053339076,Valor:89.940,pagina:9hora:	16:37:24	
+  nombre:Diana Marcela Dur?.Documento:52998227,Valor:169.900,pagina:10hora:	16:41:02	
+  nombre:Diana Patricia Val.Documento:38669366,Valor:111.920,pagina:10hora:	16:44:41	
+  nombre:Valentina Arellano.Documento:1085309320,Valor:53.940,pagina:10hora:	16:48:19	
+  nombre:Elizabed Alzate Se.Documento:43960479,Valor:53.525,pagina:11hora:	16:51:57	
+  nombre:Esperanza Roncanci.Documento:23494262,Valor:67.185,pagina:11hora:	16:57:07	
+  nombre:Edwin Ernesto Rodr.Documento:7181267,Valor:325.442,pagina:11hora:	17:00:48	
+  nombre:Wendy J ohana Coji.Documento:1023003115,Valor:116.325,pagina:12hora:	17:04:28	
+  nombre:Erika Mar?a Mejia.Documento:43626658,Valor:55.960,pagina:12hora:	17:08:09	
+  nombre:Mario Andr?s Palac.Documento:12750698,Valor:96.375,pagina:13hora:	17:11:49	
+  nombre:Mariana Ram?rez Ra.Documento:32298042,Valor:53.910,pagina:13hora:	17:15:27	
+  nombre:J essica Higuita De.Documento:1064999417,Valor:119.880,pagina:13hora:	17:19:09	
+  nombre:Danuil Elias Due?a.Documento:1091655652,Valor:133.961,pagina:14hora:	17:22:45	
+  nombre:Adriana Rojas Guer.Documento:52073163,Valor:149.435,pagina:14hora:	17:26:23	
+  nombre:J honey Bedoya Ossa.Documento:18608154,Valor:629.500,pagina:14hora:	17:30:02	
+  nombre:Sandra Patricia Cr.Documento:52885297,Valor:319.800,pagina:15hora:	17:33:41	
+  nombre:Angela Guzman00000.Documento:1022369556,Valor:125.961,pagina:15hora:	17:37:20	
+  nombre:J orge orlando Sala.Documento:10270361,Valor:485.765,pagina:15hora:	07:42:39	
+  nombre:Patricia Diaz Id?r.Documento:43427129,Valor:88.910,pagina:16hora:	07:46:19	
+  nombre:Francy Nataly Ve.Documento:53083243,Valor:53.964,pagina:16hora:	07:50:02	
+  nombre:Laura Castro Velas.Documento:52991033,Valor:67.960,pagina:16hora:	07:53:41	
+  nombre:Shirley Puello Ari.Documento:22477684,Valor:119.900,pagina:17hora:	07:57:22	
+  nombre:Victor Alfonso Ber.Documento:15448180,Valor:83.685,pagina:17hora:	08:01:01	
+  nombre:Vanessa Maturana00.Documento:1033654869,Valor:65.940,pagina:17hora:	08:04:55	
+  nombre:Andrea Morales Mon.Documento:39190997,Valor:107.940,pagina:18hora:	08:08:35	
+  nombre:Paola Andrea Arang.Documento:32296543,Valor:144.950,pagina:18hora:	08:12:17	
+  nombre:Claudia Liliana Pa.Documento:52514632,Valor:99.900,pagina:18hora:	08:15:55	
+  nombre:Angie Vanessa Mosc.Documento:24332633,Valor:64.950,pagina:19hora:	08:19:35	
+  nombre:Sary Natalia Tolos.Documento:52707506,Valor:161.900,pagina:19hora:	08:23:17	
+  nombre:Leidy Rocio Ropero.Documento:1099206152,Valor:64.950,pagina:19hora:	08:26:56	
+  nombre:Mar?a Margarita Fi.Documento:41612584,Valor:179.800,pagina:20hora:	08:30:35	
+  nombre:J eymy Alejandra Ra.Documento:1115914480,Valor:80.622,pagina:20hora:	08:34:18	
+  nombre:Wilson Murillo Mur.Documento:91184615,Valor:222.598,pagina:20hora:	08:38:00	
+  nombre:Faynory Mora000000.Documento:39756022,Valor:86.385,pagina:21hora:	08:47:02	
+  nombre:Rosa Maria Gargiol.Documento:39030466,Valor:102.365,pagina:21hora:	08:50:43	
+  nombre:J uliana Rodriguez.Documento:1023923184,Valor:44.940,pagina:21hora:	08:54:22	
+  nombre:Sandra Bolivar0000.Documento:52970941,Valor:89.950,pagina:22hora:	09:13:59	
+  nombre:Adriana Pacheco Ar.Documento:1004859841,Valor:219.900,pagina:22hora:	09:17:39	
+  nombre:Erica Laguna000000.Documento:55171897,Valor:84.950,pagina:22hora:	09:21:17	
+  nombre:J onathan Quintero.Documento:1095809290,Valor:105.335,pagina:23hora:	09:24:54	
+  nombre:Lucey Garcia000000.Documento:24851118,Valor:77.940,pagina:23hora:	09:31:00	
+  nombre:Claudia Liliana Ga.Documento:52334417,Valor:70.385,pagina:23hora:	09:34:40	
+  nombre:Mar?a Patricia Xim.Documento:52151222,Valor:111.930,pagina:24hora:	09:38:20	
+  nombre:Karen Katerin Rinc.Documento:52664820,Valor:839.340,pagina:24hora:	09:48:03	
+  nombre:Maria Alejandra He.Documento:52048700,Valor:71.820,pagina:24hora:	09:51:45	
+  nombre:Olga Lucia Giraldo.Documento:30314782,Valor:79.900,pagina:25hora:	09:58:33	
+  nombre:Diana Carolina Oso.Documento:1128387298,Valor:94.950,pagina:25hora:	10:02:12	
+  nombre:Luz Stella Velasqu.Documento:52515464,Valor:202.910,pagina:25hora:	10:15:44	
+  nombre:Ximena Andrea Moli.Documento:47437455,Valor:99.450,pagina:26hora:	10:19:25	
+  nombre:Luz Mila Cruz Gonz.Documento:52356542,Valor:67.960,pagina:26hora:	10:23:09	
+  nombre:Viviana Arana00000.Documento:59664481,Valor:139.930,pagina:26hora:	10:26:48	
+  nombre:Martha Patricia To.Documento:52006033,Valor:59.960,pagina:27hora:	10:30:29	
+  nombre:Ana Milena Franco.Documento:31376443,Valor:54.950,pagina:27hora:	10:34:05	
+  nombre:Nelly Ca??n Casta?.Documento:20891217,Valor:89.950,pagina:27hora:	10:37:46	
+  nombre:Sandra Liliana Cor.Documento:52265505,Valor:169.900,pagina:28hora:	10:41:27	
+  nombre:Mary Cadena Cepeda.Documento:37805333,Valor:124.950,pagina:28hora:	10:45:07	
+  nombre:Conrado de J es?s u.Documento:10094277,Valor:154.910,pagina:28hora:	10:48:47	
+  nombre:Mayra Alejandra Hu.Documento:1057588609,Valor:84.950,pagina:29hora:	10:52:24	
+  nombre:Fredy Antonio Bele.Documento:19237351,Valor:113.940,pagina:29hora:	10:56:07	
+  nombre:Giovanni Henao0000.Documento:10123439,Valor:146.375,pagina:29hora:	10:59:46	
+  nombre:J uliana Puerta Sie.Documento:43874654,Valor:20.117,pagina:30hora:	11:03:27	
+  nombre:Mariana Restrepo B.Documento:1020809375,Valor:234.700,pagina:30hora:	11:07:09	
+  nombre:Harol Oswaldo Lass.Documento:1089488215,Valor:39.950,pagina:30hora:	11:27:17	
+  nombre:Lina Villegas Arag.Documento:31641759,Valor:152.585,pagina:31hora:	11:31:01	
+  nombre:Natalia Elena Torr.Documento:43618342,Valor:403.235,pagina:31hora:	11:37:26	
+  nombre:Mery Cecilia Diez.Documento:41508721,Valor:180.305,pagina:32hora:	11:41:04	
+  nombre:Angela Maria Plaza.Documento:30236649,Valor:91.375,pagina:32hora:	11:43:18	
+  nombre:J uan Pablo Rojas H.Documento:1005323929,Valor:116.375,pagina:32}]hora:	11:47:06	
